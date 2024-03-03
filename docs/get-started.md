@@ -17,7 +17,7 @@ There are many approaches to developing for the cardputer.
 
 #### UIFlow
 
-UIFlow is a visual programming interface provided by M5Stack that allows users to create firmware for their devices without needing to write code. It's designed to simplify the development process, particularly for beginners or those who prefer a more intuitive approach to programming.. You can find out more in the [Getting Started Guide][uiflow]
+UIFlow is a visual programming interface provided by M5Stack that allows users to create firmware for their devices without needing to write code. It's designed to simplify the development process, particularly for beginners or those who prefer a more intuitive approach to programming. You can find out more in the [Getting Started Guide][uiflow].
 
 #### MicroPython
 
