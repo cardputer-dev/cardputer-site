@@ -6,7 +6,7 @@ A quick mention about M5Stack's desktop application that allows you to flash com
 
 ## Launchers
 
-This is firmware that is specifically built to be able to launch `.bin` files(or `.py` in the case of MicroHydra) either from the flash memory or from the SDCard.
+This is firmware that is specifically built to be able to launch `.bin` files (or `.py` in the case of MicroHydra) either from the flash memory or from the SDCard.
 
 ### [M5 Launcher][m5launcher]
 
@@ -16,13 +16,13 @@ A `.bin` launcher that supports a wide range of M5Stack products. Note that this
 
 MicroHydra is a simple MicroPython based app launcher designed for the M5Stack Cardputer. The main function of MicroHydra is to provide an interface to easily switch between MicroPython apps. And to help lower the barriers to entry for anyone wanting to develop apps for their Cardputer. Python scripts can be placed in the /apps folder on the flash, or in a /apps folder on a micro sd card. The launcher scans these two locations on startup.
 
-And since MicroHydra supports apps, find their app repository [here][mhydra-apps].
+And since MicroHydra supports apps, find the app repository [here][mhydra-apps].
 
 ## General Firmware
 
 ### [WebRadio][webradio]
 
-Stream internet radio directly to your cardputer
+Stream internet radio directly to your cardputer.
 
 ### [UserDemo Extended][userdemo-extended]
 
@@ -67,6 +67,10 @@ A fork of nemo with similar intentions, but with added functionality (SSH and Te
 ### [marauder][]
 
 A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32.
+
+---
+
+Submit firmware contributions on [Github](https://github.com/cardputer-dev/cardputer-site) by submitting a Pull Request
 
 
 [m5launcher]: https://github.com/bmorcelli/M5Stick-Launcher

@@ -4,7 +4,7 @@ The Cardputer itself is an ESP32 based development board with a screen and keybo
 
 ## Technical Details
 
-### Processor (from the [ESP32-SFN8 datasheet][s3datasheet])
+### Processor (from the [ESP32-S3FN8 datasheet][s3datasheet])
 - Dual 32bit Xtensa LX7 cores running up to 240Mhz
 - RISC-V Ultra Low Power Co-processor
 - ULTRA LOW Deep Sleep Current

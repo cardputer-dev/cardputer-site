@@ -31,4 +31,6 @@ features:
 footer: MIT Licensed | Copyright © 2024-present Cardputer Community
 ---
 
+Want to suggest a change? Submit a Pull Request on [this repo](https://github.com/cardputer-dev/cardputer-site)
+
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page

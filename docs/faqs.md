@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-## Can the Carputer do X?
+## Can the Cardputer do X?
 
 While this device isn't the most powerful, with internet access and an additional Grove connector it can do a lot. You just need to be able to program it to do the thing. If you are unsure or just getting started, have a look around this wiki and hop on into [Discord][] to ask there.
 
