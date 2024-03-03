@@ -4,6 +4,10 @@
 
 You can force the cardputer to go into the bootloader by holding the button on the StampS3 or BtnG0 on the back of the Cardputer.
 
+## How do you charge this thing?
+
+The switch on the back needs to be in the on position to charge the large secondary battery. This is a bit of an oversight as then you probably have an app running the whole time the device is charging (which will lead to screen burn-in). Try to have something like MicroHydra's Fancy Clock running, where there is nothing static on the screen.
+
 ## Can the Cardputer do X?
 
 While this device isn't the most powerful, with internet access and an additional Grove connector it can do a lot. You just need to be able to program it to do the thing. If you are unsure or just getting started, have a look around this wiki and hop on into [Discord][] to ask there.
