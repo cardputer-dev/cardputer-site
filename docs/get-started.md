@@ -4,10 +4,10 @@ The Cardputer itself is an ESP32 based development board with a screen and keybo
 
 ## Technical Details
 
-Have a look at..
+Find these by looking at..
 - the [ESP32-S3FN8 datasheet][s3datasheet]
 - the Cardputer listing on the [M5Stack website][cardputer-shop]
-- this [repo][awesome-cardputer] that covers most things
+- this [awesome repo][awesome-cardputer] that covers most things
 
 ## Developing for the Cardputer
 
