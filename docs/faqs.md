@@ -1,5 +1,12 @@
 # Frequently Asked Questions
 
+## Where do I buy a Cardputer?
+
+Order directly from the [M5Stack website][m5stack-shop]. Or one of their global distributors below...
+
+- [Digikey](https://www.digikey.com/en/products/detail/m5stack-technology-co-ltd/K132/21702610)
+- [Mouser](https://www.mouser.com/ProductDetail/M5Stack/K132)
+
 ## I can't connect to my cardputer, what is wrong?
 
 You can force the cardputer to go into the bootloader by holding the button on the StampS3 or BtnG0 on the back of the Cardputer.
@@ -26,3 +33,4 @@ Come ask us on [Discord][].
 
 
 [Discord]: https://discord.com/invite/GJW8kYYJCg
+[m5stack-shop]: https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3
