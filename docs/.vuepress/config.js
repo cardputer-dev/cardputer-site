@@ -10,7 +10,7 @@ export default defineUserConfig({
 
   theme: defaultTheme({
     logo: '/images/icon.png',
-
+    contributors: false,
     navbar: [
       {'text': 'Get Started', 'link':'/get-started'},
       {'text': 'Firmware', 'link':'/firmware'},
