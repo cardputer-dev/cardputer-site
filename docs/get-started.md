@@ -21,7 +21,11 @@ UIFlow is a visual programming interface provided by M5Stack that allows users t
 
 #### MicroPython
 
-The stock [MicroPython][micropython] firmware for the ESP32-S3 works great out of the box, if you know what you are doing just flash this and have at it. Otherwise we recommend installing [Thonny][thonny], following a tutorial or two and then getting stuck into some of these [examples][micropython-examples].
+The stock [MicroPython][micropython] firmware for the ESP32-S3 works great out of the box, if you know what you are doing just flash this and have at it. Otherwise we recommend installing [Thonny][thonny] as your main IDE and getting started with some of the examples below.
+
+- A collection of [examples][micropython-examples] specifically for the Cardputer.
+- [tinyknight][] - A simple game for the cardputer written in MicroPython
+- [st7789py][] - A micropython library for drawing to the Cardputer's screen - docs [here](https://russhughes.github.io/st7789py_mpy/)
 
 ### Low Level Development
 
@@ -40,7 +44,9 @@ If you are coming from an Arduino background and want to continue using that, th
 [uiflow]: https://docs.m5stack.com/en/quick_start/m5core/uiflow
 [micropython]: https://micropython.org/
 [thonny]: https://thonny.org/
-[micropython-examples]: https://github.com/echo-lalia/Cardputer-Micropython-
+[micropython-examples]: https://github.com/echo-lalia/Cardputer-Micropython-Examples/
+[tinyknight]: https://github.com/foopod/tinyknight
+[st7789py]: https://github.com/russhughes/st7789py_mpy
 [espidf]: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/
 [arduino]: http://docs.m5stack.com/en/quick_start/Cardputer/arduino
 [userdemo]: https://github.com/m5stack/M5Cardputer-UserDemo
