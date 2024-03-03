@@ -4,33 +4,10 @@ The Cardputer itself is an ESP32 based development board with a screen and keybo
 
 ## Technical Details
 
-### Processor (from the [ESP32-S3FN8 datasheet][s3datasheet])
-- Dual 32bit Xtensa LX7 cores running up to 240Mhz
-- RISC-V Ultra Low Power Co-processor
-- ULTRA LOW Deep Sleep Current
-
-### Memory
-- 128-bit data bus and SIMD commands
-- 384 KB ROM - for booting and core functions
-- 512 KB SRAM - for data and instructions, running at a configurable frequency of up to 240 MHz
-- 16 KB SRAM in RTC - can retain data in Deep-sleep mode
-- 4 Kbit eFuse - reserved for user data, such as encryption key and device ID
-- SPI, Dual SPI, Quad SPI, Octal SPI, QPI and OPI interfaces that allow connection to multiple flash and external RAM
-
-### Devices/Resources
-
-- Bluetooth: 5.0, BLE + Mesh
-- Wi-Fi: 802.11b/g/n 2.4Ghz
-- Display: IPS LCD, 1,14", 240x135px
-- Battery: internal 120mAh + 1400mAh (in the base) lithium battery
-- TF-Card (MicroSD) slot
-- 1 USB-C OTG in/out
-- Keyboard: 56 keys, QWERTY type, ortholinear with tactile click switches
-- Infrared ∠0° : 410cm, < 90° : 66cm, < 45° : 170cm
-- Digital MEMS Microphone
-- Sound: I2S-Speaker, 8Ω@1W
-- 2 magnets on the back to stick it somewhere metallic
-- It comes with a little hexagonal screwdriver to open it
+Have a look at..
+- the [ESP32-S3FN8 datasheet][s3datasheet]
+- the Cardputer listing on the [M5Stack website][cardputer-shop]
+- this [repo][awesome-cardputer] that covers most things
 
 ## Developing for the Cardputer
 
@@ -58,6 +35,8 @@ If you are coming from an Arduino background and want to continue using that, th
 
 [firmware]: /firmware.html
 [s3datasheet]: https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
+[cardputer-shop]: https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3
+[awesome-cardputer]: https://github.com/terremoth/awesome-m5stack-cardputer
 [uiflow]: https://docs.m5stack.com/en/quick_start/m5core/uiflow
 [micropython]: https://micropython.org/
 [thonny]: https://thonny.org/

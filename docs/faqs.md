@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## I can't connect to my cardputer, what is wrong?
+
+You can force the cardputer to go into the bootloader by holding the button on the StampS3 or BtnG0 on the back of the Cardputer.
+
 ## Can the Cardputer do X?
 
 While this device isn't the most powerful, with internet access and an additional Grove connector it can do a lot. You just need to be able to program it to do the thing. If you are unsure or just getting started, have a look around this wiki and hop on into [Discord][] to ask there.
