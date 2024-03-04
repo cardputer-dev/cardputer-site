@@ -2,7 +2,7 @@
 
 ## [M5Burner][]
 
-A quick mention about M5Stack's desktop application that allows you to flash community firmware. If you are just getting started, then we recommend using this. It won't have everything listed below, but you also won't need to compile it yourself the firmware yourself.
+A quick mention about M5Stack's desktop application that allows you to flash community firmware. If you are just getting started, then we recommend using this. It won't have everything listed below, but you also won't need to compile it yourself.
 
 ## Launchers
 
