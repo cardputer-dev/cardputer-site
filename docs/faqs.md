@@ -11,6 +11,10 @@ Order directly from the [M5Stack website][m5stack-shop]. Or one of their global 
 
 You can force the cardputer to go into the bootloader by holding the button on the StampS3 or BtnG0 on the back of the Cardputer.
 
+## How can I reset to the stock firmware?
+
+The Demo that came with the Cardputer can be found on [Github][userdemo] here, look in the Releases section to find the `.bin` file.
+
 ## How do you charge this thing?
 
 The switch on the back needs to be in the on position to charge the large secondary battery. This is a bit of an oversight as then you probably have an app running the whole time the device is charging (which will lead to screen burn-in). Try to have something like MicroHydra's Fancy Clock running, where there is nothing static on the screen.
@@ -34,3 +38,4 @@ Come ask us on [Discord][].
 
 [Discord]: https://discord.com/invite/GJW8kYYJCg
 [m5stack-shop]: https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3
+[userdemo]: https://github.com/m5stack/M5Cardputer-UserDemo
