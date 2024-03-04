@@ -3,8 +3,8 @@ home: true
 title: Home
 heroImage: /images/cardputer.webp
 actions:
-  - text: Get Started
-    link: /get-started.html
+  - text: Getting Started
+    link: /getting-started.html
     type: primary
   
   - text: Firmware

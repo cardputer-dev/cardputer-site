@@ -1,4 +1,4 @@
-# Get Started
+# Getting Started
 
 The Cardputer itself is an ESP32 based development board with a screen and keyboard (among other awesome features). Normally this would mean that you have to program it yourself, however we are lucky to have a budding community making cool software you can run on your Cardputer. Check out the [firmware][].
 

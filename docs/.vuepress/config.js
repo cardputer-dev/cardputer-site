@@ -12,7 +12,7 @@ export default defineUserConfig({
     logo: '/images/icon.png',
     contributors: false,
     navbar: [
-      {'text': 'Get Started', 'link':'/get-started'},
+      {'text': 'Getting Started', 'link':'/getting-started'},
       {'text': 'Firmware', 'link':'/firmware'},
       {'text': 'FAQ', 'link':'/faqs'},
       {'text': 'Discord', 'link':'https://discord.com/invite/GJW8kYYJCg'},
