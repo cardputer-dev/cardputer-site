@@ -4,24 +4,24 @@ The Cardputer itself is an ESP32 based development board with a screen and keybo
 
 ## Technical Details
 
-Find these by looking at..
 - the [ESP32-S3FN8 datasheet][s3datasheet]
-- the Cardputer listing on the [M5Stack website][cardputer-shop]
+- the [Cardputer Docs][cardputer-docs]
 - this [awesome repo][awesome-cardputer] that covers most things
 
 ## Developing for the Cardputer
-
-There are many approaches to developing for the cardputer.
 
 ### High Level Development
 
 #### UIFlow
 
-UIFlow is a visual programming interface provided by M5Stack that allows users to create firmware for their devices without needing to write code. It's designed to simplify the development process, particularly for beginners or those who prefer a more intuitive approach to programming. You can find out more in the [Getting Started Guide][uiflow].
+UIFlow is a visual programming interface provided by M5Stack that allows users to create firmware for their devices without needing to write code. It's designed to simplify the development process, particularly for beginners or those who prefer a more intuitive approach to programming.
+
+- M5Stack's [Getting Started Guide][uiflow].
+- M5Stack's [Tutorial Series][uiflow-tutorials] on Youtube
 
 #### MicroPython
 
-The stock [MicroPython][micropython] firmware for the ESP32-S3 works great out of the box, if you know what you are doing just flash this and have at it. Otherwise we recommend installing [Thonny][thonny] as your main IDE and getting started with some of the examples below.
+The stock [MicroPython][micropython] firmware for the ESP32-S3 works great out of the box. If you know what you are doing, just flash this and have at it. Otherwise we recommend installing [Thonny][thonny] as your main IDE and getting started with some of the examples below.
 
 - A collection of [examples][micropython-examples] specifically for the Cardputer.
 - [tinyknight][] - A simple game for the cardputer written in MicroPython
@@ -37,11 +37,18 @@ ESPIDF stands for Espressif IoT Development Framework. It's an official software
 
 If you are coming from an Arduino background and want to continue using that, then you absolutely can. Follow [M5Stacks Guide][arduino] on how to set up the board and install the libraries you will need.
 
+## Other Resources
+
+- M5Stack's [StampS3 Docs][stamps3-docs]
+- [Volos Projects][volos] on YouTube - for M5Stack tutorials and code examples
+
+
 [firmware]: /firmware.html
 [s3datasheet]: https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
-[cardputer-shop]: https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3
+[cardputer-docs]: https://docs.m5stack.com/en/core/Cardputer
 [awesome-cardputer]: https://github.com/terremoth/awesome-m5stack-cardputer
 [uiflow]: https://docs.m5stack.com/en/quick_start/m5core/uiflow
+[uiflow-tutorials]: https://www.youtube.com/playlist?list=PLgvIHLw9-cydbokzAKhi7lWcOVJ67RRTR
 [micropython]: https://micropython.org/
 [thonny]: https://thonny.org/
 [micropython-examples]: https://github.com/echo-lalia/Cardputer-Micropython-Examples/
@@ -50,3 +57,5 @@ If you are coming from an Arduino background and want to continue using that, th
 [espidf]: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/
 [arduino]: http://docs.m5stack.com/en/quick_start/Cardputer/arduino
 [userdemo]: https://github.com/m5stack/M5Cardputer-UserDemo
+[stamps3-docs]: https://docs.m5stack.com/en/core/stamps3
+[volos]: https://www.youtube.com/@VolosProjects
