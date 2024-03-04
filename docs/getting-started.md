@@ -54,7 +54,7 @@ If you are coming from an Arduino background and want to continue using that, th
 
 ### Hardware Mods
 
-There are quite a few people doing hardware mods on the cardputer. If you are interested in adding a wifi antenna, modding the display keyboard - go have a look at the relevant channels in the Discord.
+There are quite a few people doing hardware mods on the cardputer. If you are interested in adding a wifi antenna, modding the display keyboard - go have a look at the relevant channels in the [Discord][].
 
 [firmware]: /firmware.html
 [s3datasheet]: https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
@@ -72,3 +72,4 @@ There are quite a few people doing hardware mods on the cardputer. If you are in
 [userdemo]: https://github.com/m5stack/M5Cardputer-UserDemo
 [stamps3-docs]: https://docs.m5stack.com/en/core/stamps3
 [volos]: https://www.youtube.com/@VolosProjects
+[Discord]: https://discord.com/invite/GJW8kYYJCg
