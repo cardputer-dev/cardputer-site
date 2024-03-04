@@ -29,7 +29,7 @@ No. But it does have an external grove connector (capable of I2C), so it is poss
 
 ## Is the Cardputer an alternative to the Flipper Zero?
 
-In our opinion, not really, at least not without modifications (like adding sub 1-ghz, rfid capability, ir receiver).
+In our opinion, not really, at least not without modifications (like adding sub 1-ghz, rfid capability, ir receiver). If you are interesting in using the Cardputer for penetration testing, have a look at [these][pentesting].
 
 ## Something else?
 
@@ -39,3 +39,4 @@ Come ask us on [Discord][].
 [Discord]: https://discord.com/invite/GJW8kYYJCg
 [m5stack-shop]: https://shop.m5stack.com/products/m5stack-cardputer-kit-w-m5stamps3
 [userdemo]: https://github.com/m5stack/M5Cardputer-UserDemo
+[pentesting]: /firmware.html#pentesting-firmware
