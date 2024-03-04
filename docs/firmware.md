@@ -16,7 +16,8 @@ A `.bin` launcher that supports a wide range of M5Stack products. Note that this
 
 MicroHydra is a simple MicroPython based app launcher designed for the M5Stack Cardputer. The main function of MicroHydra is to provide an interface to easily switch between MicroPython apps. And to help lower the barriers to entry for anyone wanting to develop apps for their Cardputer. Python scripts can be placed in the /apps folder on the flash, or in a /apps folder on a micro sd card. The launcher scans these two locations on startup.
 
-And since MicroHydra supports apps, find the app repository [here][mhydra-apps].
+- [Apps Repository][mhydra-apps] - A repo for the apps that people have made for microhydra
+- [Wiki][mhydra-wiki] - The Mirohydra Wiki, this includes an overview of the libraries used.
 
 ## General Firmware
 
@@ -92,3 +93,4 @@ Submit firmware contributions on [Github](https://github.com/cardputer-dev/cardp
 [lora-chat]: https://github.com/nonik0/CardputerLoRaChat
 [volos-remote]: https://github.com/VolosR/M5CardRemote/
 [mhydra-apps]: https://github.com/echo-lalia/MicroHydra-Apps/tree/main/apps
+[mhydra-wiki]: https://github.com/echo-lalia/Cardputer-MicroHydra/wiki/MicroHydra-Wiki
