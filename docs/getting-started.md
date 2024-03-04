@@ -39,9 +39,22 @@ If you are coming from an Arduino background and want to continue using that, th
 
 ## Other Resources
 
+### Programming
+
 - M5Stack's [StampS3 Docs][stamps3-docs]
 - [Volos Projects][volos] on YouTube - for M5Stack tutorials and code examples
 
+### Models for 3D Printing
+
+- [Angled Stand](https://www.printables.com/model/724751-angled-stand-for-m5stack-cardputer)
+- [Wrist Mount](https://www.printables.com/model/748880-cardputer-wrist-mount)
+- [Replacement Case](https://www.thingiverse.com/thing:6363317)
+- [Cardputer](https://grabcad.com/library/m5stack-cardputer-kit-w-m5stamps3-1)
+- [Protective Cover](https://www.printables.com/model/766964-m5stack-cardputer-front-protector)
+
+### Hardware Mods
+
+There are quite a few people doing hardware mods on the cardputer. If you are interested in adding a wifi antenna, modding the display keyboard - go have a look at the relevant channels in the Discord.
 
 [firmware]: /firmware.html
 [s3datasheet]: https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf
