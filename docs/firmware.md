@@ -1,6 +1,6 @@
 # Firmware
 
-## M5Burner
+## [M5Burner][]
 
 A quick mention about M5Stack's desktop application that allows you to flash community firmware. If you are just getting started, then we recommend using this. It won't have everything listed below, but you also won't need to compile it yourself the firmware yourself.
 
@@ -72,7 +72,7 @@ A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32.
 
 Submit firmware contributions on [Github](https://github.com/cardputer-dev/cardputer-site) by submitting a Pull Request
 
-
+[M5Burner]: https://docs.m5stack.com/en/download#m5burner
 [m5launcher]: https://github.com/bmorcelli/M5Stick-Launcher
 [microhydra]: https://github.com/echo-lalia/Cardputer-MicroHydra/blob/main/README.md
 [webradio]: https://github.com/cyberwisk/M5Cardputer_WebRadio

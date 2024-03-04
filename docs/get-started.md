@@ -23,7 +23,7 @@ UIFlow is a visual programming interface provided by M5Stack that allows users t
 
 The stock [MicroPython][micropython] firmware for the ESP32-S3 works great out of the box. If you know what you are doing, just flash this and have at it. Otherwise we recommend installing [Thonny][thonny] as your main IDE and getting started with some of the examples below.
 
-- A collection of [examples][micropython-examples] specifically for the Cardputer.
+- [Cardputer Examples][micropython-examples] - A collection of MicroPython examples specifically for the Cardputer
 - [tinyknight][] - A simple game for the cardputer written in MicroPython
 - [st7789py][] - A micropython library for drawing to the Cardputer's screen - docs [here](https://russhughes.github.io/st7789py_mpy/)
 
