@@ -2,6 +2,8 @@
 
 A website to help people Getting Started with the cardputer.
 
+View it here -> [cardputer.wiki](https://cardputer.wiki)
+
 This is based on [Vuepress](https://vuepress.vuejs.org/) and has some Github actions set up to automatically build whatever gets pushed to the main branch.
 
 
