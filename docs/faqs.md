@@ -9,7 +9,7 @@ Order directly from the [M5Stack website][m5stack-shop]. Or one of their global 
 
 ## I can't connect to my cardputer, what is wrong?
 
-You can force the cardputer to go into the bootloader by holding the button on the StampS3 or BtnG0 on the back of the Cardputer.
+You can force the cardputer to go into the bootloader by holding the button BtnG0 on the back of the Cardputer while you plug the USB into your computer. Now you should be able to see it on a COM port again.
 
 ## How can I reset to the stock firmware?
 
