@@ -10,6 +10,8 @@ The Cardputer itself is an ESP32 based development board with a screen and keybo
 
 ## Developing for the Cardputer
 
+If you want to write your own firmware for the Cardputer, you first need to decide on the programming language you will use. Below we have outlined the current options and included some resources to help you get started.
+
 ### High Level Development
 
 #### UIFlow
@@ -31,7 +33,10 @@ The stock [MicroPython][micropython] firmware for the ESP32-S3 works great out o
 
 #### ESP IDF
 
-ESPIDF stands for Espressif IoT Development Framework. It's an official software development framework maintained by Espressif Systems. It provides a comprehensive set of tools, libraries, and documentation for developing firmware for ESP32 and ESP8266-based devices. The [demo][usedemo] that comes with the board uses this. If you want to get started with C/C++ and want a robust dependency management solution check out their [Getting Started Guide][espidf].
+ESPIDF stands for Espressif IoT Development Framework. It's an official software development framework maintained by Espressif Systems. It provides a comprehensive set of tools, libraries, and documentation for developing firmware for ESP32 and ESP8266-based devices. The [demo][usedemo] that comes with the board uses this. If you want to get started with C/C++ and want a robust dependency management.
+
+- [Getting Started Guide][espidf]
+- [Getting Started Video][espidf-video]
 
 #### Arduino IDE
 
@@ -68,6 +73,7 @@ There are quite a few people doing hardware mods on the cardputer. If you are in
 [tinyknight]: https://github.com/foopod/tinyknight
 [st7789py]: https://github.com/russhughes/st7789py_mpy
 [espidf]: https://docs.espressif.com/projects/esp-idf/en/stable/esp32/get-started/
+[espidf-video]: https://www.youtube.com/watch?v=J8zc8mMNKtc
 [arduino]: http://docs.m5stack.com/en/quick_start/Cardputer/arduino
 [userdemo]: https://github.com/m5stack/M5Cardputer-UserDemo
 [stamps3-docs]: https://docs.m5stack.com/en/core/stamps3
