@@ -1,5 +1,9 @@
 # Frequently Asked Questions
 
+## What is a Cardputer?
+
+A credit card sized ESP32 development board with keyboard, screen, wifi, bluetooth, infrared led, speaker and microphone. 
+
 ## Where do I buy a Cardputer?
 
 Order directly from the [M5Stack website][m5stack-shop]. Or one of their global distributors below...
