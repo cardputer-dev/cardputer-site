@@ -73,6 +73,10 @@ A fork of nemo with similar intentions, but with added functionality (SSH and Te
 
 A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32.
 
+### [Evil-Cardputer][]
+
+Firmware for redteam, pentest and learning which focuses on WiFi, Bluetooth and network vulnerabilities, but also on the attack and detection of other hacking tools like pwnagotchi or flipper zero.
+
 ---
 
 Submit firmware contributions on [Github](https://github.com/cardputer-dev/cardputer-site) by submitting a Pull Request
