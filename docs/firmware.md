@@ -88,6 +88,8 @@ Submit firmware contributions on [Github](https://github.com/cardputer-dev/cardp
 [nemo]: https://github.com/n0xa/m5stick-nemo
 [bruce]: https://github.com/pr3y/m5-bruce
 [marauder]: https://github.com/marivaaldo/ESP32Marauder/tree/feature/add-m5cardputer-support
+ [Evil-Cardputer]:
+https://github.com/7h30th3r0n3/Evil-M5Project
 [userdemo]: https://github.com/m5stack/M5Cardputer-UserDemo
 [userdemo-extended]: https://github.com/JohnZ03/M5Cardputer-UserDemo
 [mathgame]: https://github.com/seanbutler/M5CardputerMathGame
